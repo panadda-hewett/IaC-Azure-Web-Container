@@ -3,28 +3,28 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "subscription": {
-            "value": "%subscription%"
+            "value": "#subscription#"
         },
         "common_rg": {
-            "value": "%common_rg%"
+            "value": "#common_rg#"
         },
         "sitename": {
-            "value": "%sitename%"
+            "value": "#sitename#"
         },
         "serverfarm_name": {
-            "value": "%serverfarm_name%"
+            "value": "#serverfarm_name#"
         },
         "config_web_name": {
             "value": "web"
         },
         "registry_name": {
-            "value": "%registry_name%"
+            "value": "#registry_name#"
         },
         "image_name": {
-            "value": "%image_name%"
+            "value": "#image_name#"
         },
         "image_tag": {
-            "value": "%image_tag%"
+            "value": "#image_tag#"
         }
     }
 }
