@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "serverfarm_name": {
-            "defaultValue": "",
+            "defaultValue": "#serverfarmname#",
             "type": "String"
         }
     },
